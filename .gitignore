@@ -1,0 +1,37 @@
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 本地临时文件
+backup/
+*.log
+*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 测试
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 分发的 zip（避免包中包）
+公司深度分析助手-*.zip
