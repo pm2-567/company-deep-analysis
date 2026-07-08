@@ -1,5 +1,5 @@
 ---
-name: 公司深度分析助手
+name: company-deep-analysis
 version: 1.0.0
 description: |
   A股/港股公司深度分析。输入公司名称或股票代码，自动完成 6 步分析流程：
